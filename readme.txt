@@ -26,3 +26,12 @@ Page Break Wordpress plugn adds a Button to your editor, that easliy lets you in
 Follow the editor cursor for where to add the "Page Break" then click the "Page Break" Button (find in your editor screen) to insert the pagination in your posts.
 2. How to remove "Page Break"?
 select the "Page Break" tag and delete it.
+
+== Screenshots ==
+1. "page-break-scrren-1" - "Page Break" button in the editor.
+2. "page-break-scrren-2" - How to insert "Page Break" to post.
+3. "page-break-scrren-3" - How the actual post pagination looks.
+
+== Changelog ==
+= 1.0 =
+* Initial version.
