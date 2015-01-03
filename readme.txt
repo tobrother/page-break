@@ -35,3 +35,6 @@ select the "Page Break" tag and delete it.
 == Changelog ==
 = 1.0.0 =
 * Initial version.
+
+== Upgrade Notice ==
+No upgrade available
