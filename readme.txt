@@ -37,4 +37,5 @@ select the "Page Break" tag and delete it.
 * Initial version.
 
 == Upgrade Notice ==
-No upgrade available
+None!
+
