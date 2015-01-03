@@ -1,6 +1,6 @@
 === Page Break ===
 Contributors: espreson
-Donate link: http://example.com/
+Donate link: http://espreson.net/
 Tags: page break, next page, pagination
 Requires at least: 3.0.1
 Tested up to: 3.4
