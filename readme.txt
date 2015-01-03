@@ -33,5 +33,5 @@ select the "Page Break" tag and delete it.
 3. "page-break-scrren-3" - How the actual post pagination looks.
 
 == Changelog ==
-= 1.0 =
+= 1.0.0 =
 * Initial version.
