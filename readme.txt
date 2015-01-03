@@ -20,3 +20,9 @@ Page Break Wordpress plugn adds a Button to your editor, that easliy lets you in
 
 1. Upload `plugin-name.php` to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Frequently Asked Questions ==
+1. How to use "Page Break"?
+Follow the editor cursor for where to add the "Page Break" then click the "Page Break" Button (find in your editor screen) to insert the pagination in your posts.
+2. How to remove "Page Break"?
+select the "Page Break" tag and delete it.
