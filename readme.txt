@@ -12,7 +12,7 @@ Adds Page Break button to Wordpress editor.
 
 == Description ==
 
-Page Break Wordpress plugin adds a Button to the editor, that easliy lets you insert the <!--nextpage--> tag in your posts.
+Page Break Wordpress plugin adds a Button to the editor, that easily lets you insert the <!--nextpage--> tag in your posts.
 <!--nextpage--> Adds pagination to posts.
 
 == Installation ==
